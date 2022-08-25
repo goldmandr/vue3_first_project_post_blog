@@ -1,19 +1,2 @@
-# vue_project
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+IN THIS PROJECT I TRIED TO REALISE ALL MAIN ABILITIES OF VUE3 JS
+YOU CAN ADD POSTS, DELETE POSTS, SORT POSTS, MOVE ON SITE, ALSO I REALISED MAIN FUNCTIONS USING DIFFERENT METHODS
